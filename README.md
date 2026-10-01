@@ -31,4 +31,4 @@ Severity: 0.9 / 1
 Latency: 2.890s
 ```
 
-In this test, both models selected **infra**, while JEV returned additional probabilities and confidence information.
+In this test, both models selected **infra**, while JEV returned additional probabilities and confidence information and also taken less time.
