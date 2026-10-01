@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-openrouter
+langchain-typesafe
+langsmith
+python-dotenv
+pydantic
+uuid-utils
